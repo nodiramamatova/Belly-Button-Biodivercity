@@ -1,0 +1,4 @@
+flask==0.12.2
+pandas==0.20.3
+gunicorn==19.8.1
+sqlalchemy==1.1.13
